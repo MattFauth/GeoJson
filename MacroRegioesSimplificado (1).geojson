@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "nome": "Norte"
+                "nome": "Norte",
+                "cod_regiao": 1702
             },
             "geometry": {
                 "type": "Polygon",
@@ -2771,7 +2772,8 @@
         {
             "type": "Feature",
             "properties": {
-                "nome": "Centro-Sul"
+                "nome": "Centro-Sul",
+                "cod_regiao": 1701
             },
             "geometry": {
                 "type": "Polygon",
