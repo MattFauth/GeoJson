@@ -2772,7 +2772,7 @@
         {
             "type": "Feature",
             "properties": {
-                "nome": "Centro-Sul",
+                "nome": "Centro Sul",
                 "cod_regiao": 1701
             },
             "geometry": {
